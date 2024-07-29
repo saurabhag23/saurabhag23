@@ -5,14 +5,14 @@
 
 - 👨‍💻 Enthusiastic about Contributing to High Level Business solutions in domains of Fintech, Healthcare, ECommerce, Artificial Intelligence and Machine Learning, Climate Change, Automobiles, Gaming, Drones, EdTech and Legal Compliance.
 
-- Proven Expertise in Frontend Development, Backend Development, Cloud Computing, Software Testing and Qality Assurance, DevOps, API Integrations, Machine Learning and Artificial Intelligence
+- Proven Expertise in Frontend Development, Backend Development, Cloud Computing, Software Testing and Quality Assurance, DevOps, API Integrations, Machine Learning and Artificial Intelligence
 
 - 📫  Reach me out at **agrawalsaurabh916@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rahul-parande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-parande/" height="30" width="40" />LinkedIn</a>
+<a href="https://www.linkedin.com/in/saurabh-agrawal23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-agrawal23/" height="30" width="40" />LinkedIn</a>
 </p>
 <p>
 
