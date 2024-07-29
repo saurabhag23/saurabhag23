@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, Welcome to my Page</h1>
-<h3 align="center">Explore my Passion for engineering amazing and Innovative Software Projects</h3>
+<h2 align="center">Explore my Passion of Engineering some amazing and Innovative Software Projects</h2>
 
-- <h5>Full Stack Software Engineer</h5>
+- <h3>Full Stack Software Engineer</h3>
 
 - 👨‍💻 Enthusiastic about Contributing to High Level Business solutions in domains of Fintech, Healthcare, ECommerce, Artificial Intelligence and Machine Learning, Climate Change, Automobiles, Gaming, Drones, EdTech and Legal Compliance.
 
